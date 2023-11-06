@@ -1,8 +1,8 @@
 # flappy-bird
-![Flappy Bird GIF](https://media.tenor.com/WuaZ4G33BBoAAAAC/flappy-bird-flying.gif)
 A python remake of Flappy Bird (rip), all graphics done with pygame, make in 2 hours for fun :)
 
 ## Project
+![bird go brrr](https://media.tenor.com/qGArblbeGmsAAAAC/flappy-bird.gif)
 I made this Flappy Bird clone for fun to improve my skills with pygame. The code is incredibly tricky to read - I don't advise looking at it atall lmao. I wrote it in around two hours, with only one visit to StackOverflow.
 
 ## Credit
